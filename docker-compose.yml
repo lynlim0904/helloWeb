@@ -8,7 +8,7 @@ networks:
 services:
   # was1 생성
   was1:
-    image: lynlim0904/hello_web:latest
+    image: lynlim0904/hello-web:latest
     networks:
       - kosa_network
       
